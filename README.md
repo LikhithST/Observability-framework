@@ -29,10 +29,12 @@ Monitoring distributed systems introduces several key observability challenges t
 
 ### Observability Dashboard
 ![Observability Demo](./Images/Observability-demo.gif)
+
 *A demonstration of Observability dashboard showing the metrics collected for various sources (different nodes in the cloud) and the services responsible for metrics collected.* 
 
 ### Fault Injection with live metrics and log update
 ![Fault Injection](./Images/Fault-injection.gif)
+
 *Injecting Fault to the nodes running simulation and observing how injected faults affects the resource consumption.*
 
 ## USE Method
