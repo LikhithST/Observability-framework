@@ -16,7 +16,7 @@ Monitoring distributed systems introduces several key observability challenges t
 ![ETCL](./Images/ETCL.png)
 
 ## Architectural Diagram
-![Architectural Diagram](./Images/Architecture-Diagram.png)
+![](./Images/Architecture-Diagram.png)
 
 ### Components and Roles
 - **Exporters (Windows, Node, Process Exporters):** Standalone processes that collect system metrics from third-party systems or applications (e.g., Carmaker, vECU) and expose them via an HTTP endpoint in Prometheus' exposition format.
