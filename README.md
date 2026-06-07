@@ -15,7 +15,7 @@ Monitoring distributed systems introduces several key observability challenges t
 
 ![ETCL](./Images/ETCL.png)
 
-<!--- ## Architectural Diagram -->
+ ## Architectural Diagram
 ![](./Images/Architecture-Diagram.png)
 
 ### Components and Roles
